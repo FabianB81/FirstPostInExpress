@@ -1,0 +1,16 @@
+{
+  "name": "firstpostexpress",
+  "version": "1.0.0",
+  "description": "First post in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FabianB81",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  }
+} 
